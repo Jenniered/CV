@@ -1,6 +1,8 @@
-## Your Name
+## Jennie Evans
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an experienced third sector professional and qualified maths teacher with a strong track record of building relationships, achieving targets and delivering growth. 
+
+(What I've achieved, What excites me about tech)
 
 ## Projects
 
@@ -11,30 +13,45 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Anthony Nolan** (Apr 2018 - May 2022)  
+_Senior Supporter-Led Fundraising Manager_ (Oct 2020 - May 2022)
+- Experience, including roles and responsibilities and results achived in bullet point format.
+ 
+_Senior Events Manager_ (Apr 2018 - Oct 2020)
+- Any experience relevant to software development
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Mind** (May 2017 - Apr 2018)  
+_Senior Events Fundraising Officer_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Fight for Sight** (June 2015 - May 2017)  
+_Events and Community Fundraising Manager_
 
-- Any experience relevent to software development
+**Centrepoint** (June 2012 - May 2015)  
+_Events Manager_
+
+**St Oswald's Hospice** (Aug 2008 - June 2012)  
+_Fundraiser_
+
+**Teaching** (June 2015 - May 2017)  
+_Teacher of Mathematics_
+- Qualified as a secondary teacher and had two positions in this time, at West Gate Community
+College in Newcastle upon Tyne and Framwellgate School Durham
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+My excellent project management skills, reliability and tenacity ensure a well-managed, proficient approach. With creativity and vision, I am strong in conceptualisation and planning, and a capable strategic thinker with excellent listening skills. I have a calm, thorough approach and am consistent in my delivery.
 
+- Relationship building
+- Managing and coaching teams
+- Project management
+- Creativity
+
+(Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.) (Using a STAR example Paragraph) Consider the questions below.
 -STAR
 -What was the situation/task? (ST)
-
 -How was the skill used?
-
 -What did you do? (action)
-
 -What was the result?
-
 
 #### This Skill
 
@@ -53,25 +70,34 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April - Aug 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Northumbria University
+- Graduate Teacher Programme
+- Qualified Teacher Status (secondary mathematics)
+- Grade 1 (outstanding)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Leeds Metropolitan University
+- MSc Events Management
+- Merit
+- Dissertation: How major events impact participation in grassroots sports
 
-#### Any other qualifications
+#### Durham University
+- BA(Hons) Combined Studies in Arts (maths, linguistics, Czech)
+- 2:1
+- Third year abroad on the Erasmus scheme at Charles University, Prague
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Other qualifications
 
-## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+## Hobbies and volunteering
+- I've been a School Governor since February 2020 at Belmont Park School, London (Community special school for social, emotional and mental health issues)
+- I volunteered for a CIC, Be Her Lead, at the end of 2021 and wrote a successful National Lottery Community Fund bid for £10k to support their work running empowerment workshops for girls in schools
+- Love the theatre, especially musicals and have been a member of City Showtunes Orchestra, playing the clarinet, for over 5 years. 
