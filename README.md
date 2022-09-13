@@ -8,8 +8,9 @@ I'm an experienced third sector professional and qualified maths teacher with a 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Achoo – the hayfever assistant**| Group project to build an application to give detailed pollen counts for any location and send text alerts. | Javascript, Node.js, Express, React, Jest, Cypress, MongoDB |
+| **Makers BnB** | Group project to build an application similar to AirBnB | Ruby, Sinatra, RSpec, Capybara, PostgreSQL|
+| **Bank tech test** | Solo tech test for bank account transactions demonstrating TDD and methodical problem solving | Javascript, Jest |
 
 ## Work Experience
 
@@ -76,8 +77,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Sinatra, JavaScript, Node.js, React
+- RSpec, Capybara, Jest, Cypress
 
 #### Northumbria University
 - Graduate Teacher Programme
