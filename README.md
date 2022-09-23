@@ -1,8 +1,10 @@
 ## Jennie Evans
 
-I'm an experienced third sector professional and qualified maths teacher with a strong track record of building relationships, achieving targets and delivering growth. 
+A full stack software developer recently graduated from Makers Academy looking for a role where I can use my problem-solving skills and build on my programming knowledge in order to make a difference.
 
-(What I've achieved, What excites me about tech)
+I am excited about the possibilities to work on tech which makes a positive change in society and to continue rapidly developing as a highly competent and confident developer. I am creative with strong attention to detail, and I enjoy using these traits to develop clean, tested and methodically-built code.
+
+I bring experience as a successful fundraising manager and qualified maths teacher with a strong track record of building relationships and achieving targets. I have excellent listening skills, an analytical mind and am a valued, reliable and trusted team member. As an experienced event manager, I have a reputation for thorough, effective planning, a logical, well-organised approach and a calm, composed manner under pressure. I look forward to bringing these qualities to a development team.
 
 ## Projects
 
