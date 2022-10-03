@@ -23,7 +23,7 @@ I bring experience as a successful fundraising manager and qualified maths teach
 **Anthony Nolan** (Apr 2018 - May 2022)  
 _Senior Supporter-Led Fundraising Manager_ (Oct 2020 - May 2022)
 - New role setting up and managing a team of three delivering a portfolio of virtual mass participation fundraising products
-- Oversaw the team’s marketing plans, digital acquisition and supporter journeys, ensuring a data- driven and user-centric approach to email marketing and digital advertising with attention to detail on copy, design and set up
+- Oversaw the team’s marketing plans, digital acquisition and supporter journeys, ensuring a data-driven and user-centric approach to email marketing and digital advertising with attention to detail on copy, design and set up
 - Introduction and development of Facebook virtual challenges, raising over £300k in first year, managing Facebook groups of up to 4000 people
 - Developing and coaching my team, including recruitment and training of new members
 - Effective cross-team working with internal stakeholders including digital, data and tech teams
@@ -44,7 +44,7 @@ _Senior Events Fundraising Officer_
 **Fight for Sight** (June 2015 - May 2017)  
 _Events and Community Fundraising Manager_
 - Responsible for the strategy development and delivery of the events programme and community fundraising with an income budget of £450k and managing a team of two
-- Stewardship of high value supporters, corporate partners and committees, and management of major donor and cultivation events including dinners at the Houses of Parliament
+- Stewardship of high value supporters, corporate partners and committees, and management of major donor events including dinners at the Houses of Parliament
 
 **Centrepoint** (June 2012 - May 2015)  
 _Events Manager_
@@ -103,15 +103,14 @@ I developed the written application and content for the pitch, presented to the 
 #### Creativity and problem solving
 As a fundraiser these are vital skills I have demonstrated in order to adapt to the external environment and to keep supporters engaged.  
 
-Due to the drop in income from events during the pandemic, we underwent a restructure at Anthony Nolan and I then led a new stream of the fundraising programme focusing on new product development to find new income.  
+Due to the drop in income from events during the pandemic, we underwent a restructure at Anthony Nolan and I then led a new stream of the fundraising programme focusing on new product development to generate new income.  
 
 In the first few months, I led a pilot of a virtual Facebook challenge event which raised £86k. Building on this, I launched a second challenge, which exceeded its targets and raised over £200k. I raised my income target for new products for the financial year in the first two months and continued to develop the area using learnings. This included introducing Zapier as an automation tool so emails could be triggered to leads, as well as developing a full email journey, which increased engagement and conversion to fundraising on further challenges.  
 
 #### Analytic thinking
 I have significant experience of marketing and in my role at Anthony Nolan, I managed digital advertising with a budget of £80k, as well as email marketing. I used analysis and insight to deliver integrated marketing campaigns, continually reviewing to ensure they were data-driven. In 2019, I oversaw our most successful Great North Run recruitment campaign.
 
-I used supporter insight to plan audience segmentation, and this was also key to the delivery and
-innovation for our supporter journeys. I encouraged my team to adopt a test and learn approach and we adapted future content on the basis of results analysis. For example, A/B testing email subject lines or header images. 
+I used supporter insight to plan audience segmentation, and this was also key to the delivery and innovation for our supporter journeys. I encouraged my team to adopt a test and learn approach and we adapted future content on the basis of results analysis. For example, A/B testing email subject lines or header images. This helped ensure we could continuously improve and optimise results.  
 
 ## Voluntary work and interests
 - I've been a School Governor since February 2020 at Belmont Park School, a community special school for students with social, emotional and mental health issues
