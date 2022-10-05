@@ -17,24 +17,34 @@ I bring experience as a successful fundraising manager and qualified maths teach
 | [Achoo – the hayfever assistant](https://github.com/fridayshoes/achoo-hayfever-client-react) | Group project to build an application to give detailed pollen counts for any location and send text alerts. | Javascript, Node.js, Express, React, Jest, Cypress, MongoDB |
 | [Makers BnB](https://github.com/fridayshoes/makers_bnb) | Group project to build an application similar to AirBnB | Ruby, Sinatra, RSpec, Capybara, PostgreSQL|
 | [Bank tech test](https://github.com/Jenniered/bank-account) | Solo tech test for bank account transactions demonstrating TDD and methodical problem solving | Javascript, Jest |
+| [Chitter](https://github.com/Jenniered/chitter-challenge) | Solo challenge to build a small Twitter clone | Ruby, Sinatra, RSpec, Capybara, PostgreSQL |
 
 ## Experience
 
+**Makers Academy** (April - Aug 2022)
+_Accelerated Learning Software Development Bootcamp_  
+Highly selective 16-week intensive program to retrain as a software developer
+- Ownership of my own learning process and developing understanding of key principles and technologies, including OOP, TDD, MVC design pattern, Git and version control
+- Developed sound grasp of programming fundamentals through learning Ruby and demonstrated adaptability by then learning JavaScript, building web apps in both
+- Demonstrated strong test-driven development process and methodical problem solving through external code reviews and receiving feedback
+- Developed pair programming skills over 12 weeks of frequent pairing, working with different members of the cohort
+- Worked on group projects using GitHub collaboration and agile methodologies including stand-
+ups, Trello for sprint planning, and effective retros to assist open and productive team
+communication
+- Giving and receiving feedback through code reviews with fellow students
+- Inspired by my own mentor, I became a mentor for three students on later bootcamps, demonstrating active listening, empathy and my drive to support the wider team
+
 **Anthony Nolan** (Apr 2018 - May 2022)  
 _Senior Supporter-Led Fundraising Manager_ (Oct 2020 - May 2022)
-- New role setting up and managing a team of three delivering a portfolio of virtual mass participation fundraising products
-- Oversaw the team’s marketing plans, digital acquisition and supporter journeys, ensuring a data-driven and user-centric approach to email marketing and digital advertising with attention to detail on copy, design and set up
+- Set up and management of a team of three delivering a portfolio of virtual mass participation fundraising products
+- Oversaw the team’s marketing plans, digital acquisition and email journeys, ensuring a data-driven and user-centric approach with attention to detail 
 - Introduction and development of Facebook virtual challenges, raising over £300k in first year, managing Facebook groups of up to 4000 people
-- Developing and coaching my team, including recruitment and training of new members
 - Effective cross-team working with internal stakeholders including digital, data and tech teams
 - Subject Matter Expert for organisational Transform program - part of agile project team to deliver MS Dynamics as our new database including data migration and 3PI for JustGiving, Enthuse and GivePanel
  
 _Senior Events Manager_ (Apr 2018 - Oct 2020)
 - Management of a team of three delivering portfolio of third-party challenge events, including the London Marathon, which raised over £500k in 2019
-- Relationship management of a portfolio of high value participants taking on events, including business leaders
-- Management of Covid response dealing with repeated postponements of events and leading my team to communicate with and support our events participants. Demonstrated resilience and empathic leadership as I managed my team through an unprecedented period.
-- Events and Community programme shortlisted for a National Fundraising Award 2019 for
-Supporter Experience
+- Management of Covid response dealing with event postponements. Demonstrated resilience and empathic leadership as I managed my team through an unprecedented period.
 
 **Mind** (May 2017 - Apr 2018)  
 _Senior Events Fundraising Officer_
@@ -43,37 +53,24 @@ _Senior Events Fundraising Officer_
 
 **Fight for Sight** (June 2015 - May 2017)  
 _Events and Community Fundraising Manager_
-- Responsible for the strategy development and delivery of the events programme and community fundraising with an income budget of £450k and managing a team of two
-- Stewardship of high value supporters, corporate partners and committees, and management of major donor events including dinners at the Houses of Parliament
+- Responsible for the strategy development and delivery of events and community fundraising, managing a team of two
+- Stewardship of high value supporters, corporate partners, and management of major donor events including dinners at the Houses of Parliament
 
 **Centrepoint** (June 2012 - May 2015)  
 _Events Manager_
 - Project management and delivery of the events programme, managing a team of two, including the annual flagship event, Sleep Out
 - Ensured growth of Sleep Out over three years by over 40% to £440k, by professionalising the planning of the event and leading more effective cross-team working and communication
-- Effective management of varied special events including Downton Abbey Ball at the Savoy raising £200k; and cultivation polo days with Princes William and Harry
-- Guest management for Winter Whites Gala at Kensington Palace with over 600 guests including royalty, celebrities and major donors. Its net income was over £1million.
+- Effective management of varied special events including Downton Abbey Ball at the Savoy raising £200k
 
 **St Oswald's Hospice** (Aug 2008 - June 2012)  
 _Fundraiser_
-- Regional fundraiser managing events, corporate partnerships, community fundraising and individual giving.
+- Regional fundraiser managing events, corporate partnerships and community fundraising.
 
 **Teaching** (Sep 2004 - Aug 2008)  
 _Teacher of Mathematics_
 - Qualified as a secondary teacher and had two positions in this time, at West Gate Community College in Newcastle upon Tyne and Framwellgate School Durham
 
 ## Education
-
-#### Makers Academy (April - Aug 2022)
-_Accelerated Learning Software Development Bootcamp_  
-Highly selective 16-week intensive program to retrain as a software developer
-- Ownership of my own learning process and developing understanding of key principles and technologies, including OOP, TDD, MVC design pattern, Git and version control
-- Demonstrated strong test-driven development process and methodical problem solving through external code reviews and receiving feedback
-- Developed pair programming skills over 12 weeks of frequent pairing, working with different members of the cohort
-- Worked on group projects using GitHub collaboration and agile methodologies including stand-
-ups, Trello for sprint planning, and effective retros to assist open and productive team
-communication
-- Giving and receiving feedback through code reviews with fellow students
-- Mentor for three students on later bootcamps
 
 #### Northumbria University
 - Graduate Teacher Programme - Qualified Teacher Status (secondary mathematics)
