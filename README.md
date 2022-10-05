@@ -58,9 +58,8 @@ _Events and Community Fundraising Manager_
 
 **Centrepoint** (Jun 2012 - May 2015)  
 _Events Manager_
-- Project management and delivery of the events programme, managing a team of two, including the annual flagship event, Sleep Out
+- Project management and delivery of the events programme, managing a team of two, including the annual flagship event, Sleep Out, gala balls and challenge events
 - Ensured growth of Sleep Out over three years by over 40% to £440k, by professionalising the planning of the event and leading more effective cross-team working and communication
-- Effective management of varied special events including Downton Abbey Ball at the Savoy raising £200k
 
 **St Oswald's Hospice** (Aug 2008 - Jun 2012)  
 _Fundraiser_
