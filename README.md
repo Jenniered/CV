@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jennie1evans/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-| [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Voluntary work and interests](#voluntary-work-and-interests)
+| [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Voluntary work and interests](#voluntary-work-and-interests)
 
 A full stack software developer recently graduated from Makers Academy looking for a role where I can use my problem-solving skills and build on my programming knowledge in order to make a difference.
 
@@ -21,7 +21,7 @@ I bring experience as a successful fundraising manager and qualified maths teach
 
 ## Experience
 
-**Makers Academy** (April - Aug 2022)
+**Makers Academy** (Apr - Aug 2022)
 _Accelerated Learning Software Development Bootcamp_  
 Highly selective 16-week intensive program to retrain as a software developer
 - Ownership of my own learning process and developing understanding of key principles and technologies, including OOP, TDD, MVC design pattern, Git and version control
@@ -51,37 +51,24 @@ _Senior Events Fundraising Officer_
 - Management of a portfolio of running and cycling events through a period of growth, raising £2.3m against a total income target of £1.8m, with line management of a team of three
 - Management of working relationships with key event partners 
 
-**Fight for Sight** (June 2015 - May 2017)  
+**Fight for Sight** (Jun 2015 - May 2017)  
 _Events and Community Fundraising Manager_
 - Responsible for the strategy development and delivery of events and community fundraising, managing a team of two
 - Stewardship of high value supporters, corporate partners, and management of major donor events including dinners at the Houses of Parliament
 
-**Centrepoint** (June 2012 - May 2015)  
+**Centrepoint** (Jun 2012 - May 2015)  
 _Events Manager_
 - Project management and delivery of the events programme, managing a team of two, including the annual flagship event, Sleep Out
 - Ensured growth of Sleep Out over three years by over 40% to £440k, by professionalising the planning of the event and leading more effective cross-team working and communication
 - Effective management of varied special events including Downton Abbey Ball at the Savoy raising £200k
 
-**St Oswald's Hospice** (Aug 2008 - June 2012)  
+**St Oswald's Hospice** (Aug 2008 - Jun 2012)  
 _Fundraiser_
 - Regional fundraiser managing events, corporate partnerships and community fundraising.
 
 **Teaching** (Sep 2004 - Aug 2008)  
 _Teacher of Mathematics_
 - Qualified as a secondary teacher and had two positions in this time, at West Gate Community College in Newcastle upon Tyne and Framwellgate School Durham
-
-## Education
-
-#### Northumbria University
-- Graduate Teacher Programme - Qualified Teacher Status (secondary mathematics)
-- Grade 1 (outstanding)
-
-#### Leeds Metropolitan University
-- MSc Events Management
-
-#### Durham University
-- 2:1 BA(Hons) Combined Studies in Arts (Maths, Linguistics and Czech)
-- Third year abroad on the Erasmus scheme at Charles University, Prague
 
 ## Skills
 
@@ -108,6 +95,19 @@ In the first few months, I led a pilot of a virtual Facebook challenge event whi
 I have significant experience of marketing and in my role at Anthony Nolan, I managed digital advertising with a budget of £80k, as well as email marketing. I used analysis and insight to deliver integrated marketing campaigns, continually reviewing to ensure they were data-driven. In 2019, I oversaw our most successful Great North Run recruitment campaign.
 
 I used supporter insight to plan audience segmentation, and this was also key to the delivery and innovation for our supporter journeys. I encouraged my team to adopt a test and learn approach and we adapted future content on the basis of results analysis. For example, A/B testing email subject lines or header images. This helped ensure we could continuously improve and optimise results.  
+
+## Education
+
+#### Northumbria University
+- Graduate Teacher Programme - Qualified Teacher Status (secondary mathematics)
+- Grade 1 (outstanding)
+
+#### Leeds Metropolitan University
+- MSc Events Management
+
+#### Durham University
+- 2:1 BA(Hons) Combined Studies in Arts (Maths, Linguistics and Czech)
+- Third year abroad on the Erasmus scheme at Charles University, Prague
 
 ## Voluntary work and interests
 - I've been a School Governor since February 2020 at Belmont Park School, a community special school for students with social, emotional and mental health issues
